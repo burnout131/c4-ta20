@@ -1,11 +1,7 @@
 package com.ejercicio7y8;
 
-/**
- * Hello world!
- *
- */
 public class App {
-	
+
 	public static void main(String[] args) {
 		try {
 			ConversorMoneda window = new ConversorMoneda();
@@ -14,5 +10,5 @@ public class App {
 			e.printStackTrace();
 		}
 	}
-	
+
 }
